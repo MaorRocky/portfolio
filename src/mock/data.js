@@ -51,6 +51,17 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.png',
+    title: 'MERN STACK - E-commerce shop',
+    info: `Deployed an E-commerce website with paypal integration – used React and React-Bootstrap
+    for the frontend, react-redux to change the state of the components, nodeJS
+    for the backend, and MongoDB for the database`,
+    info2: '',
+    url: 'https://maorshopapp.herokuapp.com/',
+    repo: 'https://github.com/MaorRocky/eCommerce', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project.png',
     title: 'MERN STACK - stree food review',
     info: `Deployed a website for reviewing restaurants with social
     network features such as posting, liking, commenting, and so on. – used React
@@ -60,17 +71,7 @@ export const projectsData = [
     url: 'https://young-atoll-27562.herokuapp.com/',
     repo: 'https://github.com/MaorRocky/MERN_stack_foodReview', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project.png',
-    title: 'MERN STACK - E-commerce shop',
-    info: `Deployed an E-commerce website with paypal integration – used React and React-Bootstrap
-    for the frontend, react-redux to change the state of the components, nodeJS
-    for the backend, and MongoDB for the database`,
-    info2: '',
-    url: 'https://maorshopapp.herokuapp.com/',
-    repo: 'https://github.com/MaorRocky/eCommerce', // if no repo, the button will not show up
-  },
+
   {
     id: nanoid(),
     img: 'akka.png',
