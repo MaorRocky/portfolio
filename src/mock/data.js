@@ -41,10 +41,10 @@ export const projectsData = [
     title: 'AWS Distributed Systems - JAVA',
     info: `Massively distributed applications, Cloud
     computing, Big data processing, Scalability considerations,Hadoop.`,
-    info2: `* Language Processing - Collocation xtraction, a map-reduce program
-    that produces the list of top-—00 collocations for each decade on the
-    Google 2-grams zdatasets using AmaIon lastic Map Reduce.
-    * Cloud Computing - Manager and 1orkers frame1ork, based on AWS
+    info2: `* Language Processing - Collocation extraction, a map-reduce program
+    that produces the list of top-100 collocations for each decade on the
+    Google 2-grams datasets using Amazon Elastic Map Reduce.
+    * Cloud Computing - Manager and workers framework, based on AWS
     services - C2, SQS, S3.`,
     url: `https://github.com/MaorRocky/Collocation-Extraction-Amazon-EMR`,
     repo: `https://github.com/MaorRocky/Collocation-Extraction-Amazon-EMR`, // if no repo, the button will not show up
