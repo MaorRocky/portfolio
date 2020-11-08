@@ -18,11 +18,12 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: `I'm a recent graduate of BGU in Computer Science with a 85 GPA`,
-  paragraphTwo: `During my studies I gained and acquired:\n
-  \nDevelopment knowledge in JAVA, Python, JavaScript, C, C++.\n
-  Experienced with MERN STACK, REACT, css, HTML, REDUX, AWS, HADOOP\n
-  Knowledgeable in SQL programming and database planning.\n
+  paragraphOne: `I'm a recent graduate of BGU in Computer Science`,
+  paragraphTwo: `During my studies I gained and acquired
+
+  Development knowledge in JAVA, Python, JavaScript, C, C++.
+  Experience with MERN STACK, REACT, css, HTML, REDUX, AWS, HADOOP\n
+  Knowledge in SQL programming and database planning.\n
   Deep understanding and implementation of OOP / OOD principles.\n\n`,
   paragraphThree: `I have rich technological background, systematic vision, and logical thinking, understanding, and
   analysis of complex systems. Proven work experience in a team and as single - in work and
