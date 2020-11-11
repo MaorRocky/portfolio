@@ -76,7 +76,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'bit.jpeg',
     title: 'Crypto Tracker',
-    info: `A small website for tracking the top 100 crypto-currencies, with a really nice theme.`,
+    info: `A small React app for tracking the top 100 crypto-currencies, with a really nice theme.`,
     info2: '',
     url: 'https://maorcrypto.netlify.app/',
     repo: 'https://github.com/MaorRocky/MaorCrypto', // if no repo, the button will not show up
