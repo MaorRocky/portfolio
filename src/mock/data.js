@@ -72,6 +72,15 @@ export const projectsData = [
     url: 'https://young-atoll-27562.herokuapp.com/',
     repo: 'https://github.com/MaorRocky/MERN_stack_foodReview', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'bit.jpeg',
+    title: 'Crypto Tracker',
+    info: `A small website for tracking the top 100 crypto-currencies, with a really nice theme.`,
+    info2: '',
+    url: 'https://maorcrypto.netlify.app/',
+    repo: 'https://github.com/MaorRocky/MaorCrypto', // if no repo, the button will not show up
+  },
 
   {
     id: nanoid(),
