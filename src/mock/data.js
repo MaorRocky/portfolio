@@ -19,17 +19,18 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: `I'm a recent graduate of BGU in Computer Science`,
-  paragraphTwo: `During my studies I gained and acquired
+  paragraphTwo: `During my university studies, I acquired the following skills:
 
   Development knowledge in JAVA, Python, JavaScript, C, C++.
   Experience with MERN STACK, REACT, css, HTML, REDUX, AWS, HADOOP\n
-  Knowledge in SQL programming and database planning.\n
+  Knowledge in Html and CSS.\n
   Deep understanding and implementation of OOP / OOD principles.\n\n`,
-  paragraphThree: `I have rich technological background, systematic vision, and logical thinking, understanding, and
-  analysis of complex systems. Proven work experience in a team and as single - in work and
-  projects in various frameworks, Quick to master new technologies and a great self-learner with
-  a can-do attitude ability to cope with complex technological challenges, very good interpersonal
-  relationships.`,
+  paragraphThree: `My background is rich in technology, I have a systematic vision, and logical reasoning, along
+  with a comprehensive understanding of the pieces that make up complex systems. A proven
+  record of scholarly/research work and experience in a team and as a single-tasker, working in
+  various frameworks, quick to learn new technologies and a very good self-learner with a strong
+  sense of responsibility with the ability to cope with complex/multi-disciplinary technological
+  challenges. Very good interpersonal relationships`,
   resume: `https://drive.google.com/file/d/18UPB-0EwKFbWGoz7KM_pXowKKFLZvWxF/view?usp=sharing`, // if no resume, the button will not show up
 };
 
